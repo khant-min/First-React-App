@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/First-React-App/static/css/main.03113933.css",
+    "main.js": "/First-React-App/static/js/main.62506a7d.js",
+    "static/media/image-product-2.jpg": "/First-React-App/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/First-React-App/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/image-product-3.jpg": "/First-React-App/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/First-React-App/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "index.html": "/First-React-App/index.html",
+    "static/media/icon-cart.svg": "/First-React-App/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
+    "main.03113933.css.map": "/First-React-App/static/css/main.03113933.css.map",
+    "main.62506a7d.js.map": "/First-React-App/static/js/main.62506a7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03113933.css",
+    "static/js/main.62506a7d.js"
+  ]
+}
